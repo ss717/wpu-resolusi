@@ -5,6 +5,7 @@ RENCANA KONTEN WPU
   * Framework Javascript
    ^ Vue
    ^ React
+   ^ Angular
 - Fundamental Data Dasar
 - PHP Frameworks
  ^ Laravel
